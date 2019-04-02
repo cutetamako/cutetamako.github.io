@@ -1,4 +1,4 @@
 Uer-agent: *
-Disallow: /favicon-20190326053907956.ico
+Disallow: /favicon.ico
 
 Sitemap:https://cutetamako.github.io/Sitemap.xml
